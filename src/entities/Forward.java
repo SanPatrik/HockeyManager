@@ -1,3 +1,7 @@
+package entities;
+
+import interfaces.Player;
+
 public class Forward implements Player {
     private String name;
     private Integer age;
